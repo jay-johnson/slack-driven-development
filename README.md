@@ -38,7 +38,7 @@ There are also screenshots below this section to help get started.
 
 1. Edit the configuration for your needs
 
-    The example file ```slack_driven_development.py``` uses a configuration [dictionary object](https://github.com/jay-johnson/slack-driven-development/blob/0259ba51708da2c478787b9fe0f547c2619441b9/slack/slack_driven_development.py#L5-L11) where you can assign these keys based off your needs:
+    The example file ```slack_driven_development.py``` uses a configuration [dictionary object](https://github.com/jay-johnson/slack-driven-development/blob/78ced381ce1a1594e735943a8a9ab145425fe7d1/slack_driven_development.py#L5-L11) where you can assign these keys based off your needs:
 
     | Key Name    | Purpose and Where to find the Value                        |
     | ----------- | ---------------------------------------------------------- |
