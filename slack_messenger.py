@@ -63,6 +63,8 @@ class SlackMessenger:
 
     def post_message_to_slack(self, channel, message, debug=False):
 
+        slack_response  = {}
+
         try:
 
             # SlackHQ Repository for integrating with the Slack API:
@@ -71,10 +73,13 @@ class SlackMessenger:
 
             slack = slackclient.SlackClient(self.m_slack_token)
 
-            slack.api_call("chat.postMessage", channel=channel, text=message, username=self.m_bot_name, as_user=True)
+            slack_response = slack.api_call("chat.postMessage", channel=channel, text=message, username=self.m_bot_name, as_user=True)
+
+            if "error" in slack_response:
+                print "\nERROR: Slack API call had an error(" + str(slack_response["error"]) + ")\n"
 
         except Exception, e:
-            err_msg = "Failed to post message to slack with Ex(" + str(e) + ")"
+            err_msg = "Failed to post message to slack with Ex(" + str(e) + ") SlackResponse(" + str(slack_response) + ")"
             print "ERROR: " + str(err_msg)
         # end of try/ex
 

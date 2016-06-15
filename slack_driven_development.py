@@ -6,7 +6,7 @@ slack_config = {
                 "BotName"     : "bugbot",
                 "ChannelName" : "debugging",
                 "NotifyUser"  : "jay",
-                "Token"       : "xoxb-51351043345-RQED5EaegVpatE6f1lApeHqR",
+                "Token"       : "xoxb-51351043345-oHKTiT5sXqIAlxwYzQspae54",
                 "EnvName"     : "LocalDev"
              }
 

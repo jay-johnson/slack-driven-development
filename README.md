@@ -30,7 +30,7 @@ There are also screenshots below this section to help get started.
 
 1. Record the Slack bot's API Token
 
-    This demo uses a bot with an API token: ```xoxb-51351043345-RQED5EaegVpatE6f1lApeHqR```
+    This demo uses a bot with an API token: ```xoxb-51351043345-oHKTiT5sXqIAlxwYzQspae54```
     
 1. Invite the Slack bot to your debugging channel
 
