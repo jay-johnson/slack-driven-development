@@ -70,37 +70,37 @@ Here are the screenshots (as of 06-15-2016) for getting this demo integrated wit
 
 1. Create a new Slack App Integration
 
-![Step 1 - Create a new Slack App Integration](./images/01SlackAddANewIntegration.png)
+    ![Step 1 - Create a new Slack App Integration](./images/01SlackAddANewIntegration.png)
 
 
 1. Build a new Integration
 
-![Step 2 - Build a new Integration](./images/02SlackBuild.png)
+    ![Step 2 - Build a new Integration](./images/02SlackBuild.png)
 
 
 1. Make a Custom Integration
 
-![Step 3 - Make a Custom Integration](./images/03SlackMakeCustomIntegration.png)
+    ![Step 3 - Make a Custom Integration](./images/03SlackMakeCustomIntegration.png)
 
 
 1. Create a new Bot
 
-![Step 4 - Create a new Bot](./images/04SlackBotCreateNewBot.png)
+    ![Step 4 - Create a new Bot](./images/04SlackBotCreateNewBot.png)
 
 
 1. Name and Add Bot
 
-![Step 5 - Name and Add Bot](./images/05SlackNameAndAddBot.png)
+    ![Step 5 - Name and Add Bot](./images/05SlackNameAndAddBot.png)
 
 
 1. Record the Bot API Token in the Dictionary Configuration
 
-![Step 6 - Record the Bot API Token in the Dictionary Configuration](./images/06SlackRecordBotAPIToken.png)
+    ![Step 6 - Record the Bot API Token in the Dictionary Configuration](./images/06SlackRecordBotAPIToken.png)
 
 
 1. Run the Slack Driven Development Demo
 
-![Step 7 - Run the Slack Driven Development Demo](./images/07SlackDrivenDevelopmentExample.png)
+    ![Step 7 - Run the Slack Driven Development Demo](./images/07SlackDrivenDevelopmentExample.png)
 
 
 ### License
