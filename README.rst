@@ -208,15 +208,3 @@ License
 
 This repository is licensed under the MIT license.
 
-
-Want to learn more?
-------------------
-
-*  .. raw:: html 
-
-        <a href="mailto:jay.p.h.johnson@gmail.com?Subject=Hello"><i class="fa fa-envelope"></i> Email me</a>
-
-* `Contact Information`_
-
-.. _Contact Information: http://jaypjohnson.com/contact.html
-
